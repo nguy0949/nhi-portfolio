@@ -1,0 +1,12 @@
+.button {
+    background-color: #B2CCDF !important;
+    color: #000 !important;
+    text-transform: capitalize !important;
+    font-weight: 700 !important;
+    padding: 4px 40px !important;
+    border-radius: 15px !important;
+
+    &:hover {
+        background-color: #88A4CF !important;
+    }
+}

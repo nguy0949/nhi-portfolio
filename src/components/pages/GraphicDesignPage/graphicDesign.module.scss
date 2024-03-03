@@ -1,0 +1,62 @@
+@import '../../commons/styles/global.scss';
+
+.container {
+    padding: 50px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 50px;
+
+    @include desktop { 
+        padding: 80px 40px;
+    }
+}
+
+.graphic_card {
+    width: 100%;
+    max-width: 1000px;
+    background-color: #B2CCDF;
+    border-radius: 40px;
+}
+
+.graphic_content {
+    padding: 40px 0;
+
+    @include tablet {
+        padding: 50px 10px;
+    }
+    @include desktop { 
+        padding: 100px 40px;
+    }
+}
+
+.graphic_container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 40px;
+    row-gap: 40px;
+
+}
+
+.image_container {
+    & img {
+        width: 100%;
+    }
+}
+
+.small_size {
+    max-width: calc(35% - 40px);
+}
+.normal_size {
+    max-width: calc(50% - 40px);
+}
+
+.large_size {
+    max-width: calc(80% - 40px);
+}
+
+.text_content {
+    margin-left: 20px;
+}
