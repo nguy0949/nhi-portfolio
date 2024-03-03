@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import { NavLink } from 'react-router-dom'
 import { Menu, MenuItem } from '@mui/material'
-import logo from '../../../images/homepage/logo.png'
+import logo from '../../../images/homepage/LOGO.png'
 import styles from './navbar.module.scss'
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown'
 import { AppContext } from '../../../AppContext'

@@ -1,7 +1,7 @@
 import React, { useContext, useEffect } from 'react'
 import styles from './homePage.module.scss'
-// import video from '../../../images/homepage/VIDEO.mp4'
 import { AppContext } from '../../../AppContext'
+const VIDEO_LINK = "https://nhi-portfolio.s3.ca-central-1.amazonaws.com/VIDEO.mp4"
 
 const HomePage = () => {
     const { changeIsHomePage } = useContext(AppContext)
@@ -21,7 +21,7 @@ const HomePage = () => {
             </div>
             <div className={styles.video_container}>
                 <div className={styles.video_frame}>
-                    {/* <video loop muted autoPlay src={video} /> */}
+                    <video loop muted autoPlay src={VIDEO_LINK} />
                 </div>
             </div>
         </div>
