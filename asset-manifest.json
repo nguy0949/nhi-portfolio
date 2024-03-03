@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.521ecdcc.css",
-    "main.js": "/react-gh-pages/static/js/main.9f51b93f.js",
-    "static/js/787.c6e2e930.chunk.js": "/react-gh-pages/static/js/787.c6e2e930.chunk.js",
-    "static/media/avatar.jpg": "/react-gh-pages/static/media/avatar.9b4a2e15ad2f42e7bd5f.jpg",
-    "static/media/instagram_icon.png": "/react-gh-pages/static/media/instagram_icon.c486a464bb9988edeb72.png",
-    "static/media/RESUME.pdf": "/react-gh-pages/static/media/RESUME.579ff41698b3aa4885ad.pdf",
-    "static/media/linkedin_icon.png": "/react-gh-pages/static/media/linkedin_icon.a6e9a68404bfb030f9b7.png",
-    "static/media/gmail_icon.png": "/react-gh-pages/static/media/gmail_icon.76a2ddc06c25879ab395.png",
-    "static/media/behance_icon.png": "/react-gh-pages/static/media/behance_icon.19a9d831b18f127641ed.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.521ecdcc.css.map": "/react-gh-pages/static/css/main.521ecdcc.css.map",
-    "main.9f51b93f.js.map": "/react-gh-pages/static/js/main.9f51b93f.js.map",
-    "787.c6e2e930.chunk.js.map": "/react-gh-pages/static/js/787.c6e2e930.chunk.js.map"
+    "main.css": "/nhi-portfolio/static/css/main.521ecdcc.css",
+    "main.js": "/nhi-portfolio/static/js/main.cff5bf4b.js",
+    "static/js/787.c6e2e930.chunk.js": "/nhi-portfolio/static/js/787.c6e2e930.chunk.js",
+    "static/media/avatar.jpg": "/nhi-portfolio/static/media/avatar.9b4a2e15ad2f42e7bd5f.jpg",
+    "static/media/instagram_icon.png": "/nhi-portfolio/static/media/instagram_icon.c486a464bb9988edeb72.png",
+    "static/media/RESUME.pdf": "/nhi-portfolio/static/media/RESUME.579ff41698b3aa4885ad.pdf",
+    "static/media/linkedin_icon.png": "/nhi-portfolio/static/media/linkedin_icon.a6e9a68404bfb030f9b7.png",
+    "static/media/gmail_icon.png": "/nhi-portfolio/static/media/gmail_icon.76a2ddc06c25879ab395.png",
+    "static/media/behance_icon.png": "/nhi-portfolio/static/media/behance_icon.19a9d831b18f127641ed.png",
+    "index.html": "/nhi-portfolio/index.html",
+    "main.521ecdcc.css.map": "/nhi-portfolio/static/css/main.521ecdcc.css.map",
+    "main.cff5bf4b.js.map": "/nhi-portfolio/static/js/main.cff5bf4b.js.map",
+    "787.c6e2e930.chunk.js.map": "/nhi-portfolio/static/js/787.c6e2e930.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.521ecdcc.css",
-    "static/js/main.9f51b93f.js"
+    "static/js/main.cff5bf4b.js"
   ]
 }
