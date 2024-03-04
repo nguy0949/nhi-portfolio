@@ -1,6 +1,5 @@
 {
   "name": "nhi-portfolio",
-  "homepage": "https://nguy0949.github.io/nhi-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
