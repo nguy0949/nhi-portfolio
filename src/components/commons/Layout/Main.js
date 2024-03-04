@@ -17,7 +17,7 @@ const Main = () => {
     return (
         <HashRouter>
             <div className={`${styles.app_container} ${color}`}>
-                <Router>
+                {/* <Router> */}
                     <Navbar />
                     <div className={styles.page_wrapper}>
                         <Routes>
@@ -30,7 +30,7 @@ const Main = () => {
                             {/* Add more routes here */}
                         </Routes>
                     </div>
-                </Router>
+                {/* </Router> */}
             </div>
         </HashRouter>
     )
