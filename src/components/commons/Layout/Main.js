@@ -15,24 +15,20 @@ const Main = () => {
     const color = useDarkBG ? styles.dark : undefined
 
     return (
-        // <HashRouter>
-            <div className={`${styles.app_container} ${color}`}>
-                {/* <Router> */}
-                    <Navbar />
-                    <div className={styles.page_wrapper}>
-                        <Routes>
-                            <Route exact path="/" element={<HomePage />} />
-                            <Route exact path="/about" element={<AboutPage />} /> 
-                            <Route exact path="/video-production" element={<VideoProductionPage />} /> 
-                            <Route exact path="/graphic-design" element={<GraphicDesignPage />} /> 
-                            <Route exact path="/photography" element={<PhotoGraphyPage />} /> 
-                            <Route exact path="/contact" element={<ContactPage />} /> 
-                            {/* Add more routes here */}
-                        </Routes>
-                    </div>
-                {/* </Router> */}
-            </div>
-        // </HashRouter>
+        <div className={`${styles.app_container} ${color}`}>
+                <Navbar />
+                <div className={styles.page_wrapper}>
+                    <Routes>
+                        <Route exact path="/" element={<HomePage />} />
+                        <Route exact path="/about" element={<AboutPage />} /> 
+                        <Route exact path="/video-production" element={<VideoProductionPage />} /> 
+                        <Route exact path="/graphic-design" element={<GraphicDesignPage />} /> 
+                        <Route exact path="/photography" element={<PhotoGraphyPage />} /> 
+                        <Route exact path="/contact" element={<ContactPage />} /> 
+                        {/* Add more routes here */}
+                    </Routes>
+                </div>
+        </div>
     )
 }
 
