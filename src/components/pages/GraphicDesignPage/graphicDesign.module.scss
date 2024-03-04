@@ -59,4 +59,12 @@
 
 .text_content {
     margin-left: 20px;
+    margin-top: 20px;
+
+    @include tablet {
+        margin-top: 40px;
+    }
+    @include desktop { 
+        margin-top: 60px;
+    }
 }

@@ -8,9 +8,24 @@
     align-items: center;
 
     &__logo {
-        height: 80px;
+        height: 40px;
+        display: flex;
+        align-items: center;
+
         & img {
             height: 100%;
+
+            @include desktop { 
+                height: 80%;
+            }
+        }
+
+        @include tablet { 
+            height: 60px;
+        }
+
+        @include desktop { 
+            height: 80px;
         }
     }
     &__links {
@@ -19,6 +34,7 @@
         margin-right: 10px;
         justify-content: flex-end;
         column-gap: 5px;
+        font-size: 1rem;
 
         @include desktop { 
             column-gap: 20px;
@@ -46,10 +62,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 0.9rem;
+    font-size: 1rem;
+
+    @include tablet { 
+        font-size: 1.2rem;
+    }
 
     @include desktop { 
-        font-size: 1rem;
+        font-size: 1.4rem;
     }
 }
 

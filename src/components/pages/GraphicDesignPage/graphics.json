@@ -4,7 +4,7 @@
             {"src": "1-A.png", "size": "normal"},
             {"src": "1-B.png", "size": "normal"}
         ],
-        "content": "Content 1"
+        "content": "I can design very nice brochures (a small booklet) for my clients with text, images, and graphics to convey information in a visually appealing way to promote their products/ services. Software: Adobe Photoshop, Adobe Indesign, Adobe Illustration"
     },
     {
         "images": [
@@ -13,40 +13,40 @@
             {"src": "2-C.jpg", "size": "normal"},
             {"src": "2-D.jpg", "size": "normal"}
         ],
-        "content": "Content 2"
+        "content": "In addition, I also have the ability to create illustrations with many different topics using Adobe Illustration and Blender."
     },
     {
         "images": [
             {"src": "3.jpg", "size": "normal"}
         ],
-        "content": "Content 3"
+        "content": "These paintings were completed by me on the Procreate application."
     },
     {
         "images": [
             {"src": "4-A.png", "size": "normal"},
             {"src": "4-B.png", "size": "small"}
         ],
-        "content": "Content 4"
+        "content": "I know how to design innovative and sophisticated logos, and packaging with realistic product mockups."
     },
     {
         "images": [
             {"src": "5.png", "size": "large"}
         ],
-        "content": "Content 5"
+        "content": "This is a graphic designed to advertise a candy store with the sweet colour tones of candy."
     },
     {
         "images": [
             {"src":  "6-A.png", "size": "small"},
             {"src": "6-B.png", "size": "small"}
         ],
-        "content": "Content 6"
+        "content": "I have a strong command of Adobe Photoshop software and can skillfully combine its tools to design engaging posters and images."
     },
     {
         "images": [
             {"src": "7-A.png", "size": "normal"},
             {"src": "7-B.jpg", "size": "normal"}
         ],
-        "content": "Content 7"
+        "content": "These are the banners and standees I created to fulfill my company's advertising needs during my time as a co-op student."
     },
     {
         "images": [
@@ -54,6 +54,6 @@
             {"src": "8-B.png", "size": "normal"},
             {"src": "8-C.png", "size": "normal"}
         ],
-        "content": "Content 8"
+        "content": "I have researched the skills of using AI tools to generate images to keep up with trends."
     }
 ]
