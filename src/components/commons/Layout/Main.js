@@ -15,7 +15,7 @@ const Main = () => {
     const color = useDarkBG ? styles.dark : undefined
 
     return (
-        <HashRouter>
+        // <HashRouter>
             <div className={`${styles.app_container} ${color}`}>
                 {/* <Router> */}
                     <Navbar />
@@ -32,7 +32,7 @@ const Main = () => {
                     </div>
                 {/* </Router> */}
             </div>
-        </HashRouter>
+        // </HashRouter>
     )
 }
 
