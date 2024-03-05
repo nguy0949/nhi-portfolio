@@ -11,8 +11,8 @@ import styles from './main.module.scss'
 import { AppContext } from '../../../AppContext'
 
 const Main = () => {
-    const { useDarkBG } = useContext(AppContext)
-    const color = useDarkBG ? styles.dark : undefined
+    const { useAppBG } = useContext(AppContext)
+    const color = useAppBG ? styles.background_image : undefined
 
     return (
         <div className={`${styles.app_container} ${color}`}>

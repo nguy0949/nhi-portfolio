@@ -1,8 +1,10 @@
+@import '../styles/global.scss';
 @import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@300;400;600;700;800&display=swap');
 
 body,
 html {
-    font-family: 'Public sans', sans-serif;
+    font-family: 'Playfair Display', 'Public sans', sans-serif;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
 }
@@ -21,9 +23,20 @@ html {
     height: 100%;
 }
 
-.dark {
-    background-color: #03396C;
-    color: #fff;
+// .dark {
+//     background-color: #03396C;
+//     color: #fff;
+// }
+
+.background_image {
+    background-image: url('../../../images/contactpage/mobile_background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    @include tablet { 
+        background-image: url('../../../images/contactpage/desktop_background.png');
+    }
 }
 
 .page_container {

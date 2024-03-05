@@ -3,6 +3,9 @@ import { TextField } from '@mui/material'
 import { styled } from '@mui/material/styles'
 
 const StyledTextField = styled(TextField)`
+    & .MuiInputBase-root {
+        background-color: #fff;
+    }
     & label.Mui-focused {
         color: #000;
     }

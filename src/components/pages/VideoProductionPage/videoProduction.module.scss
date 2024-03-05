@@ -40,6 +40,10 @@
     @include desktop { 
         width: 50%;
         margin: 100px 50px;
+
+        & > p {
+            font-size: 1.3rem;
+        }
     }
 }
 

@@ -5,7 +5,7 @@ export const AppContext = createContext()
 export const AppProvider = ({ children }) => {
     const [isHomePage, setIsHomePage] = useState(false) // Default navbar color light, can be changed to dark
     const [pageName, setPageName] = useState('')
-    const [useDarkBG, setUseDarkBG] = useState(false)
+    const [useAppBG, setUseAppBG] = useState(false)
 
     const changeIsHomePage = (value) => {
         setIsHomePage(value)
@@ -15,12 +15,12 @@ export const AppProvider = ({ children }) => {
         setPageName(value)
     }
 
-    const changeUseDarkBG = (value) => {
-        setUseDarkBG(value)
+    const changeUseAppBG = (value) => {
+        setUseAppBG(value)
     }
 
     return (
-        <AppContext.Provider value={{ isHomePage, changeIsHomePage, pageName, changePageName, useDarkBG, changeUseDarkBG }}>
+        <AppContext.Provider value={{ isHomePage, changeIsHomePage, pageName, changePageName, useAppBG, changeUseAppBG }}>
             {children}
         </AppContext.Provider>
     )
