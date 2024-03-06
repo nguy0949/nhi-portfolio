@@ -33,7 +33,7 @@ function About() {
                     <div className={styles.introduction}>
                         <p className={styles.no_margin}>
                             Hello! My digital portfolio is a visual journey through my imagination, where I explore many art styles/ trends and technology
-                            <br />tools to bring unique and captivating creations to life.
+                            tools to bring unique and captivating creations to life.
                         </p>
                         <p className={styles.no_margin}>
                             Besides my academic journey 4-year study in marketing and media product management at Hoa Sen University,
