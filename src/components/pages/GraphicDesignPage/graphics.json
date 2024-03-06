@@ -17,7 +17,8 @@
     },
     {
         "images": [
-            {"src": "3.jpg", "size": "normal"}
+            {"src": "3A.jpg", "size": "normal"},
+            {"src": "3B.jpg", "size": "normal"}
         ],
         "content": "These paintings were completed by me on the Procreate application."
     },
