@@ -2,7 +2,7 @@ After edit content
 
 git add -A
 
-git commit - m "change content"
+git commit -m "change content"
 
 git push origin main
 
