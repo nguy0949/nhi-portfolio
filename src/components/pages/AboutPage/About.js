@@ -36,8 +36,8 @@ function About() {
                             tools to bring unique and captivating creations to life.
                         </p>
                         <p className={styles.no_margin}>
-                            Besides my academic journey 4-year study in marketing and media product management at Hoa Sen University,
-                            <br />I am also an alumnus of Algonquin College, I majored in Interactive Media Design, delving into the realms of graphic design, content creation, video production, and UI/UX.
+                            Besides my academic journey 4-year studies in marketing and media product management at Hoa Sen University,
+                            I am also an alumnus of Algonquin College, I majored in Interactive Media Design, delving into the realms of graphic design, content creation, video production, and UI/UX.
                         </p>
                         <p className={styles.no_margin}>
                             More than that, proficient in Adobe Creative Suits and Blender software, I bring a seamless blend of creativity and technical expertise.
