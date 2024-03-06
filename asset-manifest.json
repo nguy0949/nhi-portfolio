@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.08efa727.css",
-    "main.js": "/static/js/main.c1c6e732.js",
+    "main.css": "/static/css/main.1c821513.css",
+    "main.js": "/static/js/main.c4522e5e.js",
     "static/js/787.c6e2e930.chunk.js": "/static/js/787.c6e2e930.chunk.js",
     "static/media/avatar.jpg": "/static/media/avatar.9b4a2e15ad2f42e7bd5f.jpg",
+    "static/media/mobile_background.png": "/static/media/mobile_background.2815bcc32112709be01d.png",
+    "static/media/location_icon.png": "/static/media/location_icon.70414b939fc8869d8d81.png",
     "static/media/instagram_icon.png": "/static/media/instagram_icon.c486a464bb9988edeb72.png",
     "static/media/RESUME.pdf": "/static/media/RESUME.579ff41698b3aa4885ad.pdf",
+    "static/media/mail_icon.png": "/static/media/mail_icon.13d37cfe483e53d865cf.png",
+    "static/media/call_icon.png": "/static/media/call_icon.1d57e9cd484747c79631.png",
     "static/media/linkedin_icon.png": "/static/media/linkedin_icon.a6e9a68404bfb030f9b7.png",
+    "static/media/desktop_background.png": "/static/media/desktop_background.9dc8a5a0f2a54080a9ad.png",
     "static/media/gmail_icon.png": "/static/media/gmail_icon.76a2ddc06c25879ab395.png",
     "static/media/behance_icon.png": "/static/media/behance_icon.19a9d831b18f127641ed.png",
     "index.html": "/index.html",
-    "main.08efa727.css.map": "/static/css/main.08efa727.css.map",
-    "main.c1c6e732.js.map": "/static/js/main.c1c6e732.js.map",
+    "main.1c821513.css.map": "/static/css/main.1c821513.css.map",
+    "main.c4522e5e.js.map": "/static/js/main.c4522e5e.js.map",
     "787.c6e2e930.chunk.js.map": "/static/js/787.c6e2e930.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08efa727.css",
-    "static/js/main.c1c6e732.js"
+    "static/css/main.1c821513.css",
+    "static/js/main.c4522e5e.js"
   ]
 }
