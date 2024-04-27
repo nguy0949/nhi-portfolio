@@ -45,9 +45,9 @@ function About() {
                     </div>
                 </div>
                 <div className={styles.links}>
-                    <div className={styles.resume_link}>
+                    {/* <div className={styles.resume_link}>
                         <Button className={styles.resume_button} href={resume} variant="contained" target="_blank">Resume</Button>
-                    </div>
+                    </div> */}
                     <div className={styles.social_links}>
                         {/* <a href='https://www.instagram.com/ntran9409?igsh=ajA4aDV3dGFvemww&utm_source=qr' target='_blank'>
                             <img className={styles.social_icon} src={InstagramIcon} alt="Instagram" />
